@@ -1,7 +1,7 @@
 """
 reload_all.py: транзитивная перезагрузка вложенных модулей
 
-Usage:
+Использование:
 > from reloadall import reload_all
 > import os, tkinter
 > reload_all(os)
